@@ -1,5 +1,8 @@
 /* driver to test code -- use with Lot.java, LotType1.java, LotType2.java */
-/* implement LotType1 and LotType2 prior to testing */
+/* implement LotType1 and LotType2 prior to testing
+*
+* This file provided for project with instruction to make no changes
+ */
 
 /* once everything is correctly implemented, the output of this driver
    will be:

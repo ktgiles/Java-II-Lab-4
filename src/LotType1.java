@@ -1,4 +1,4 @@
-// Kaitlin Giles, Lab 4 File 1, 03/01/2021
+// Kaitlin, Lab 4 File 1, 03/01/2021
 // Extend Lot for triangular object
 
 public class LotType1 extends Lot implements Comparable<Lot> {

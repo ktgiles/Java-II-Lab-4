@@ -1,4 +1,4 @@
-// Kaitlin Giles, Lab 4 File 2, 03/01/2021
+// Kaitlin, Lab 4 File 2, 03/01/2021
 // Extend Lot for rectangular object
 
 public class LotType2  extends Lot implements Comparable<Lot>{
